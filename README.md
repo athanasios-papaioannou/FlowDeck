@@ -1,16 +1,58 @@
-# React + Vite
+# FlowDeck
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An aviation-inspired Airbus A320 checklist application built with React.
 
-Currently, two official plugins are available:
+FlowDeck guides flight simulation enthusiasts through structured flight procedures using interactive checklists, progress tracking, phase locking, and local data persistence.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Interactive checklist workflow
+- Sequential flight phase navigation
+- Progress tracking
+- Phase locking
+- Local Storage persistence
+- Responsive design
+- Aviation-inspired user interface
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Built With
 
-## Expanding the ESLint configuration
+- React
+- JavaScript (ES6+)
+- CSS3
+- Vite
+- Local Storage API
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Live Demo
+
+View the application:
+[Live Demo](ΕΔΩ_ΘΑ_ΜΠΕΙ_ΤΟ_LINK)
+
+## Case Study
+
+Read the complete project breakdown on my portfolio:
+[Case Study](ΕΔΩ_ΘΑ_ΜΠΕΙ_ΤΟ_PORTFOLIO_LINK)
+
+## Installation
+
+```bash
+git clone https://github.com/athanasios-papaioannou/FlowDeck.git
+
+cd FlowDeck
+
+npm install
+
+npm run dev
+```
+
+## Version
+
+Current Release: **v1.0**
+
+## Author
+
+Athanasios Papaioannou
+
+Portfolio: (portfolio link)
+
+GitHub:
+https://github.com/athanasios-papaioannou
