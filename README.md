@@ -44,6 +44,10 @@ npm install
 npm run dev
 ```
 
+## Version
+
+Current Release: **v1.0**
+
 ## Author
 
 Athanasios Papaioannou
