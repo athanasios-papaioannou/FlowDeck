@@ -25,12 +25,12 @@ FlowDeck guides flight simulation enthusiasts through structured flight procedur
 ## Live Demo
 
 View the application:
-[Live Demo](ΕΔΩ_ΘΑ_ΜΠΕΙ_ΤΟ_LINK)
+[Live Demo](https://flowdeck.athanasiospapaioannou.gr/)
 
 ## Case Study
 
 Read the complete project breakdown on my portfolio:
-[Case Study](ΕΔΩ_ΘΑ_ΜΠΕΙ_ΤΟ_PORTFOLIO_LINK)
+[Case Study](https://www.athanasiospapaioannou.gr/projects/flowdeck-airbus-a320-checklist-app/)
 
 ## Installation
 
@@ -52,7 +52,7 @@ Current Release: **v1.0**
 
 Athanasios Papaioannou
 
-Portfolio: (portfolio link)
+Portfolio: https://www.athanasiospapaioannou.gr/
 
 GitHub:
 https://github.com/athanasios-papaioannou
