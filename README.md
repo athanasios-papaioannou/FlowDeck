@@ -22,16 +22,6 @@ FlowDeck guides flight simulation enthusiasts through structured flight procedur
 - Vite
 - Local Storage API
 
-## Live Demo
-
-View the application:
-[Live Demo](https://flowdeck.athanasiospapaioannou.gr/)
-
-## Case Study
-
-Read the complete project breakdown on my portfolio:
-[Case Study](https://www.athanasiospapaioannou.gr/projects/flowdeck-airbus-a320-checklist-app/)
-
 ## Installation
 
 ```bash
